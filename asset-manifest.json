@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/super-basic-todo-List-react-example/static/css/main.5338a697.css",
+    "main.js": "/super-basic-todo-List-react-example/static/js/main.06e03e19.js",
+    "static/js/787.a5cad257.chunk.js": "/super-basic-todo-List-react-example/static/js/787.a5cad257.chunk.js",
+    "index.html": "/super-basic-todo-List-react-example/index.html",
+    "main.5338a697.css.map": "/super-basic-todo-List-react-example/static/css/main.5338a697.css.map",
+    "main.06e03e19.js.map": "/super-basic-todo-List-react-example/static/js/main.06e03e19.js.map",
+    "787.a5cad257.chunk.js.map": "/super-basic-todo-List-react-example/static/js/787.a5cad257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5338a697.css",
+    "static/js/main.06e03e19.js"
+  ]
+}
